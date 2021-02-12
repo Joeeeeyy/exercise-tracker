@@ -1,0 +1,37 @@
+{
+  "name": "exercise-tracker",
+  "version": "1.0.0",
+  "description": "freeCodeCamp Exercise Tracker project for APIs and Microservices Certification",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "mongodb": "^3.6.4",
+    "mongoose": "^5.11.15",
+    "shortid": "^2.2.16"
+  },
+  "engines": {
+		"node": "6.9.1"
+	},
+  "repository": {
+    "type": "git",
+    "url": "https://gomix.com/#!/project/welcome-project"
+  },
+  "keywords": [
+    "exercise-tracker",
+    "fcc",
+    "apis-and-microservices",
+    "express",
+    "node.js",
+    "npm",
+    "freeCodeCamp",
+    "certification"
+  ],
+  "author": "Jose Guillermo Lopez",
+  "license": "MIT"
+}
